@@ -1,4 +1,4 @@
-# Hi, I'm Christopher R Lajoie! 👋  
+# Hi, I'm Christopher Lajoie! 👋  
 **Data Analyst inspired by all things data!**
 
 📍 Based in Rhode Island  
@@ -8,17 +8,19 @@
 ---
 
 ### About Me:
-I’m passionate about analyzing data, generating insights, and solving real-world problems. My expertise includes predictive modeling, machine learning, and data visualization using Python, R, and SQL.
+I’m passionate about analyzing data, generating insights, and solving real-world problems. With a background in data analytics and a specialization in survey analysis, predictive modeling, and machine learning, I thrive on transforming raw data into actionable insights that drive meaningful decisions.
 
+Over the years, I’ve developed expertise in various tools and technologies, including Python, R, SQL, and data visualization platforms like Tableau and Power BI. Whether it's creating predictive models, building dashboards, or designing experiments, my focus is always on leveraging data to uncover opportunities, streamline processes, and solve complex challenges.
+
+As an independent data analyst, I have successfully delivered impactful solutions across multiple industries, including nonprofit organizations, finance, and emerging technologies like cryptocurrency. My experience includes working on projects like membership engagement analysis for nonprofits, predictive loan analysis, and clustering models for financial data.
+
+I’m always eager to collaborate on projects that allow me to apply data science techniques to real-world problems. My goal is to provide organizations with clear, actionable insights that can help them make data-driven decisions with confidence.
 ---
 
 ### Languages & Tools I Use:
-![Python](https://img.shields.io/badge/-Python-blue)
-![R](https://img.shields.io/badge/-R-276DC3)
-![SQL](https://img.shields.io/badge/-SQL-yellowgreen)
-![Tableau](https://img.shields.io/badge/-Tableau-orange)
-![PowerBI](https://img.shields.io/badge/-PowerBI-blueviolet)
-![Excel](https://img.shields.io/badge/-Excel-brightgreen)
+[![My Skills](https://skillicons.dev/icons?i=python,sklearn,r,aws,mysql,postgres,sqlite,powerbi)](https://skillicons.dev)
+![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)
+
 
 ---
 
