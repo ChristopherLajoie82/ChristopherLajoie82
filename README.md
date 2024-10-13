@@ -28,7 +28,7 @@ I’m always eager to collaborate on projects that allow me to apply data scienc
 - **[Loan Exploratory Project](https://github.com/ChristopherLajoie82/Loan-exploratory-project)**: Data analysis on loan applications to predict risk.
 - **[Membership Engagement Analysis](https://github.com/ChristopherLajoie82/financial-and-survey-analysis)**: Analyzed survey data to enhance membership retention and engagement for nonprofits.
 - **[Paint Tracking Program](https://github.com/ChristopherLajoie82/Paint_Tracking_Database)**: Built a program to track paint code information for my employer
-- **[Funko Pop Collection Tracker](
+- **[Funko Pop Collection Tracker](https://github.com/ChristopherLajoie82/Funko-Pop-Tracker)**: Funko Pop Collection Tracker 
 ---
 
 Feel free to check out my work and get in touch for collaboration or data insights! 🚀
