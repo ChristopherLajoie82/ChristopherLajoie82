@@ -27,7 +27,7 @@ I’m always eager to collaborate on projects that allow me to apply data scienc
 ### Recent Projects:
 - **[Loan Exploratory Project](link-to-repo)**: Data analysis on loan applications to predict risk.
 - **[Membership Engagement Analysis](link-to-repo)**: Analyzed survey data to enhance membership retention and engagement for nonprofits.
-- **[Paint Tracking Program](link-to-repo)**: Built a program to track paint code information for my employer
+- **[Paint Tracking Program](https://github.com/ChristopherLajoie82/Paint_Tracking_Database)**: Built a program to track paint code information for my employer
 
 ---
 
