@@ -14,7 +14,7 @@ Recently, I have been focusing on enhancing my coding skills by developing vario
 
 Over the years, I’ve developed expertise in various tools and technologies, including Python, R, SQL, and data visualization platforms like Tableau and Power BI. As a software developer, I focus on creating efficient, scalable applications that enhance data manipulation and analysis. Whether it's building predictive models, developing software solutions, creating dashboards, or designing experiments, my goal is to leverage data and coding skills to uncover opportunities, streamline processes, and solve complex challenges.
 
-As an independent data analyst and software developer, I have successfully delivered impactful solutions across multiple industries, including nonprofit organizations, finance, and emerging technologies like cryptocurrency. My experience includes working on projects like membership engagement analysis for nonprofits, predictive loan analysis, and clustering models for financial data.
+As an independent data analyst and software developer, I have successfully delivered impactful solutions across multiple domains. My experience includes working on projects like membership engagement analysis for nonprofits, predictive loan analysis, and clustering models for financial data.
 
 I’m always eager to collaborate on projects that allow me to apply data science techniques and software development practices to real-world problems. My goal is to provide organizations with clear, actionable insights and robust applications that can help them make data-driven decisions with confidence.
 
