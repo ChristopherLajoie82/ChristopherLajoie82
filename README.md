@@ -37,15 +37,7 @@ My trades background (17 years as an automotive paint technician, 4 years in sig
 
 <div align="center">
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
-![Qt](https://img.shields.io/badge/Qt-41CD52?style=for-the-badge&logo=qt&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
-![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
+[![My Skills](https://skillicons.dev/icons?i=python,cpp,qt,js,nodejs,mongodb,express,angular,postgres,sqlite,aws)](https://skillicons.dev)
 
 </div>
 
@@ -53,15 +45,9 @@ My trades background (17 years as an automotive paint technician, 4 years in sig
 
 ## Featured Projects
 
-<div align="center">
-
-[![Coatbase](https://github-readme-stats.vercel.app/api/pin/?username=ChristopherLajoie82&repo=Coatbase&theme=tokyonight)](https://github.com/ChristopherLajoie82/Coatbase)
-
-</div>
-
 | Project | Description |
 |---------|-------------|
-| [**Coatbase**](https://github.com/ChristopherLajoie82/Coatbase) | Commercial SaaS for paint mixing and inventory management with real-time scale integration, PDF parsing, Stripe billing, and cloud sync |
+| [**Coatbase**](https://www.lajoieanalytics.com) | Commercial SaaS for paint mixing and inventory management with real-time scale integration, PDF parsing, Stripe billing, and cloud sync |
 | [**Paint Tracking Program**](https://github.com/ChristopherLajoie82/Paint_Tracking_Database) | The original prototype that became Coatbase |
 | [**Loan Exploratory Project**](https://github.com/ChristopherLajoie82/Loan-exploratory-project) | Predictive modeling for loan risk analysis |
 | [**Funko Pop Tracker**](https://github.com/ChristopherLajoie82/Funko-Pop-Tracker) | Collection management application |
