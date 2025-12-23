@@ -8,7 +8,9 @@
 
 </div>
 
-![Section](https://capsule-render.vercel.app/api?type=rect&color=0:1a1a2e,100:16213e&height=40&section=header&text=About%20Me&fontSize=24&fontColor=ffffff)
+---
+
+## About Me
 
 I'm a software developer with 21 years of skilled trades experience, now building commercial applications that solve real problems in industries I know firsthand.
 
@@ -16,9 +18,34 @@ I'm the founder of **Lajoie Analytics** and creator of **Coatbase** — a profes
 
 My trades background (17 years as an automotive paint technician, 4 years in sign manufacturing) gives me a unique perspective — I build software for people who actually use their hands, not just their keyboards.
 
-**B.S. in Computer Science** from Southern New Hampshire University | **3.9 GPA**
+---
 
-![Section](https://capsule-render.vercel.app/api?type=rect&color=0:1a1a2e,100:16213e&height=40&section=header&text=What%20I%20Build&fontSize=24&fontColor=ffffff)
+## Education
+
+**B.S. Computer Science** | Southern New Hampshire University | **3.9 GPA**
+
+**Data Analysis Certificate** | Bryant University
+
+**National Society of Leadership and Success** (Sigma Alpha Pi)
+
+<details>
+<summary><b>Notable Coursework</b></summary>
+<br>
+
+| Course | Focus |
+|--------|-------|
+| CS 499 Capstone | Paint Tracking System — secure coding, professional documentation, ePortfolio |
+| CS 465 Full Stack | MEAN stack (MongoDB, Express, Angular, Node.js), JWT authentication |
+| CS 330 Graphics | OpenGL 3D development in C++, Phong lighting, texture mapping |
+| CS 370 AI | Reinforcement learning with Q-learning, Keras neural networks |
+| CS 305 Security | AES encryption, HTTPS, certificate generation, secure coding |
+| CS 360 Mobile | Android development, secure login, persistent storage |
+
+</details>
+
+---
+
+## What I Build
 
 | Area | Technologies |
 |------|-------------|
@@ -27,7 +54,9 @@ My trades background (17 years as an automotive paint technician, 4 years in sig
 | **Full Stack Web** | MongoDB, Express, Angular, Node.js |
 | **Backend Systems** | bcrypt authentication, RSA-signed license validation, Cloud sync |
 
-![Section](https://capsule-render.vercel.app/api?type=rect&color=0:1a1a2e,100:16213e&height=40&section=header&text=Languages%20and%20Tools&fontSize=24&fontColor=ffffff)
+---
+
+## Languages and Tools
 
 <div align="center">
 
@@ -35,11 +64,13 @@ My trades background (17 years as an automotive paint technician, 4 years in sig
 
 </div>
 
-![Section](https://capsule-render.vercel.app/api?type=rect&color=0:1a1a2e,100:16213e&height=40&section=header&text=Featured%20Projects&fontSize=24&fontColor=ffffff)
+---
+
+## Featured Projects
 
 | Project | Description |
 |---------|-------------|
-| [**Coatbase**](https://www.lajoieanalytics.com/coatbase/) | Commercial SaaS for paint mixing and inventory management with real-time scale integration, PDF parsing, Stripe billing, and cloud sync |
+| [**Coatbase**](https://www.lajoieanalytics.com) | Commercial SaaS for paint mixing and inventory management with real-time scale integration, PDF parsing, Stripe billing, and cloud sync |
 | [**Paint Tracking Program**](https://github.com/ChristopherLajoie82/Paint_Tracking_Database) | The original prototype that became Coatbase |
 | [**Loan Exploratory Project**](https://github.com/ChristopherLajoie82/Loan-exploratory-project) | Predictive modeling for loan risk analysis |
 | [**Funko Pop Tracker**](https://github.com/ChristopherLajoie82/Funko-Pop-Tracker) | Collection management application |
