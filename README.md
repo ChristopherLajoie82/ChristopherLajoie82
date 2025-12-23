@@ -70,7 +70,7 @@ My trades background (17 years as an automotive paint technician, 4 years in sig
 
 | Project | Description |
 |---------|-------------|
-| [**Coatbase**](https://www.lajoieanalytics.com) | Commercial SaaS for paint mixing and inventory management with real-time scale integration, PDF parsing, Stripe billing, and cloud sync |
+| [**Coatbase**](https://www.lajoieanalytics.com/coatbase/) | Commercial SaaS for paint mixing and inventory management with real-time scale integration, PDF parsing, Stripe billing, and cloud sync |
 | [**Paint Tracking Program**](https://github.com/ChristopherLajoie82/Paint_Tracking_Database) | The original prototype that became Coatbase |
 | [**Loan Exploratory Project**](https://github.com/ChristopherLajoie82/Loan-exploratory-project) | Predictive modeling for loan risk analysis |
 | [**Funko Pop Tracker**](https://github.com/ChristopherLajoie82/Funko-Pop-Tracker) | Collection management application |
