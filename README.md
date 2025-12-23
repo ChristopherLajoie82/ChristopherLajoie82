@@ -8,9 +8,7 @@
 
 </div>
 
----
-
-## About Me
+![Section](https://capsule-render.vercel.app/api?type=rect&color=0:1a1a2e,100:16213e&height=40&section=header&text=About%20Me&fontSize=24&fontColor=ffffff)
 
 I'm a software developer with 21 years of skilled trades experience, now building commercial applications that solve real problems in industries I know firsthand.
 
@@ -20,9 +18,7 @@ My trades background (17 years as an automotive paint technician, 4 years in sig
 
 **B.S. in Computer Science** from Southern New Hampshire University | **3.9 GPA**
 
----
-
-## What I Build
+![Section](https://capsule-render.vercel.app/api?type=rect&color=0:1a1a2e,100:16213e&height=40&section=header&text=What%20I%20Build&fontSize=24&fontColor=ffffff)
 
 | Area | Technologies |
 |------|-------------|
@@ -31,9 +27,7 @@ My trades background (17 years as an automotive paint technician, 4 years in sig
 | **Full Stack Web** | MongoDB, Express, Angular, Node.js |
 | **Backend Systems** | bcrypt authentication, RSA-signed license validation, Cloud sync |
 
----
-
-## Languages and Tools
+![Section](https://capsule-render.vercel.app/api?type=rect&color=0:1a1a2e,100:16213e&height=40&section=header&text=Languages%20and%20Tools&fontSize=24&fontColor=ffffff)
 
 <div align="center">
 
@@ -41,13 +35,11 @@ My trades background (17 years as an automotive paint technician, 4 years in sig
 
 </div>
 
----
-
-## Featured Projects
+![Section](https://capsule-render.vercel.app/api?type=rect&color=0:1a1a2e,100:16213e&height=40&section=header&text=Featured%20Projects&fontSize=24&fontColor=ffffff)
 
 | Project | Description |
 |---------|-------------|
-| [**Coatbase**](https://www.lajoieanalytics.com) | Commercial SaaS for paint mixing and inventory management with real-time scale integration, PDF parsing, Stripe billing, and cloud sync |
+| [**Coatbase**](https://www.lajoieanalytics.com/coatbase/) | Commercial SaaS for paint mixing and inventory management with real-time scale integration, PDF parsing, Stripe billing, and cloud sync |
 | [**Paint Tracking Program**](https://github.com/ChristopherLajoie82/Paint_Tracking_Database) | The original prototype that became Coatbase |
 | [**Loan Exploratory Project**](https://github.com/ChristopherLajoie82/Loan-exploratory-project) | Predictive modeling for loan risk analysis |
 | [**Funko Pop Tracker**](https://github.com/ChristopherLajoie82/Funko-Pop-Tracker) | Collection management application |
