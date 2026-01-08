@@ -20,7 +20,7 @@ I'm the founder of **Lajoie Analytics** and creator of **Coatbase** — a profes
 
 My trades background (17 years as an automotive paint technician, 4 years in sign manufacturing) gives me a unique perspective — I build software for people who actually use their hands, not just their keyboards.
 
-**Currently:** Building out Coatbase for commercial launch and exploring AI-assisted paint formula optimization.
+**Currently:** Building out Coatbase for commercial launch.
 
 ![Section](https://capsule-render.vercel.app/api?type=rect&color=0:1a1a2e,100:16213e&height=40&section=header&text=What%20I%20Build&fontSize=24&fontColor=ffffff)
 
